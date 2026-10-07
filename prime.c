@@ -22,7 +22,7 @@ int main()
 	}
 
 		if(count==0)
-			printf("prime");
+			printf("prime\n");
 
 	return 0;
 }
